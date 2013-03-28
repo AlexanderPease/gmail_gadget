@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-  <ModulePrefs title="Hello World!" />
-  <Content type="html">
-    <![CDATA[
-      Hello, world!
-    ]]>
-  </Content>
-</Module>​
+<ModulePrefs title="Wikipedia" height="104" scrolling="false" description="A Wikipedia Search and Go widget." author="Shazingo" author_email="shazingo@gmail.com" screenshot="http://hosting.gmodules.com/ig/gadgets/file/115288948760256340515/wikipedia_ss.png" thumbnail="http://gwidgets.com/images/wikipedia_tn.png" title_url="http://www.wikipedia.org/" category="funandgames" category2="politics">
+<Require feature="analytics"/>
+</ModulePrefs>
+<Content view="preview, home, default, canvas" type="url" href="http://www.gmodules.com/ig/ifr?url=http://shazingo.com/gadgets/wikipedia/wikipedia2.xml"/>
+</Module>
