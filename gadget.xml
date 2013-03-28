@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-  <ModulePrefs title="gmail_gadget!" />
+  <ModulePrefs title="gmail_gadget!" author="Alexander Pease" author_email="alexander@usv.com"></ModulePrefs>
   <Content type="html">
     <![CDATA[
       Hello, Zander!
