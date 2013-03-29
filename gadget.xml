@@ -55,10 +55,8 @@
         }
         document.body.appendChild(matchList);
         gadgets.window.adjustHeight(100);
-
-
-        <p>Zander</p>
       </script>
+      <p>Zander</p>
     ]]>
   </Content>
 </Module>
