@@ -35,7 +35,7 @@
   <Content type="html" view="card">
     <![CDATA[
       <!-- Start with Single Sign-On -->
-      <script type="text/javascript" src="http://example.com/gadgets/sso.js"></script>
+      <!-- <script type="text/javascript" src="http://example.com/gadgets/sso.js"></script> -->
       <script type="text/javascript">
 
         <!-- Fetch the array of content matches. -->
@@ -54,9 +54,8 @@
           }
         }
         document.body.appendChild(matchList);
-        gadgets.window.adjustHeight(100);
+        gadgets.window.adjustHeight(200);
       </script>
-      <p>Zander</p>
     ]]>
   </Content>
 </Module>
