@@ -15,7 +15,7 @@
     <!-- The next feature, Caja, is optional, and is supported for
      use only within test domains. Uncomment the tag only for
      non-production gadgets. -->
-    <!-- <Require feature="caja"/> -->
+    <Require feature="caja"/>
 
     <!-- The next feature, google.contentmatch, is required for all
      Gmail contextual gadgets.
@@ -55,6 +55,9 @@
         }
         document.body.appendChild(matchList);
         gadgets.window.adjustHeight(100);
+
+
+        <p>Zander</p>
       </script>
     ]]>
   </Content>
