@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
-  <ModulePrefs title="Hello World"
+  <ModulePrefs title="Correspondence Info Gadget"
     description="Matches and echoes 'Hello World' string in emails"
     height="20"
-    author="Sarah M and Walter Q"
-    author_email="..."
-    author_location="Mountain View, CA">
+    author="Alexander Pease"
+    author_email="alexander@usv.com"
+    author_location="New York, NY">
 
     <!-- Declare feature dependencies. -->
 
